@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+validator.Checked=WebRoot/WEB-INF/page/index,WebRoot/WEB-INF/page/Admin,WebRoot/WEB-INF/page/common,WebRoot/js/Select-More.js,WebRoot/js/jquery.js
+validator.Unchecked=
